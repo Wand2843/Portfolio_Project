@@ -15,7 +15,6 @@ body {
 
 .navbar ul {
     list-style: none;
-
 }
 
 .navbar ul li {
@@ -63,6 +62,9 @@ body {
     z-index: 999;
 }
 
+
+
+}
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -114,6 +116,7 @@ button:hover {
     max-width: 40%;
     vertical-align: top;
     margin-left: 100px;
+    padding-bottom: 50px;
 }
 
 .intro-text {
@@ -135,6 +138,16 @@ button:hover {
     padding-left: 50px;
     text-align: center;
 }
+
+.specifications {
+    display: flex;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    text-align: center;
+}
+
+
 
 
 
